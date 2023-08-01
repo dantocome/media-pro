@@ -1,11 +1,13 @@
 
-header nav{
+header {
     background-color:rgb(254, 194, 54); 
     height: 6em;
-    display: flex;
-    gap: 20em;
-    padding: 1.5em 8em 1.5em 8em;
     border-bottom: 1px solid black;
+}
+nav{
+   display: flex;
+   gap: 12em;
+   padding: 2em 8em 2em 8em;
 }
 
 .img1{
@@ -29,8 +31,9 @@ header nav{
 }
 .wrap{
     display: flex;
-    margin-left: 7em;
+    margin-left: 20em;
     gap: 3em;
+
 }
 
 .list{
