@@ -1,6 +1,6 @@
 .hero-section .curios{
     background-color:rgb(254, 194, 54);
-    height: 400px;
+    height: 470px;
 }
 h1{
     font-size: 5em;
@@ -15,4 +15,15 @@ h1{
 }
 .caption{
     padding: 1em 7em;
+}
+.bttn{
+    width: 11em;
+    height: 2.2em;
+    font-size: 1.3em;
+    margin-left: 5.9em;
+    margin-top: 2em;
+    background-color: black;
+    border: hidden;
+    color: white;
+    border-radius: 5em;
 }
