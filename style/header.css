@@ -1,0 +1,33 @@
+
+header{
+    background-color: rgb(254, 194, 54);
+    height: 5em;
+    display: flex;
+    gap:40em;
+    padding: 1em 8em 1em 8em;
+}
+.img1{
+    width: 2.4em;
+}
+.dium{
+    font-family: "Clistoga";
+    font-size: 2em;
+    font-weight: bold;
+}
+.log{
+    display: flex;
+    gap: 0.5em;
+}
+nav li a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 1em;
+    
+}
+
+nav{
+    display: flex;
+    gap: 2em;
+    padding: 1em 0 1em 0;
+}
+    
