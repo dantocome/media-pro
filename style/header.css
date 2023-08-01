@@ -3,8 +3,8 @@ header nav{
     background-color:rgb(254, 194, 54); 
     height: 6em;
     display: flex;
-    gap:30em;
-    padding: 1.5em 10em 1.5em 10em;
+    gap: 20em;
+    padding: 1.5em 8em 1.5em 8em;
     border-bottom: 1px solid black;
 }
 
