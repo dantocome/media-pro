@@ -1,24 +1,26 @@
 
-header{
-    background-color: rgb(254, 194, 54);
+header nav{
+    background-color:rgb(254, 194, 54); 
     height: 6em;
     display: flex;
-    gap:22em;
-    padding: 1.5em 6em 1.5em 6em;
+    gap:30em;
+    padding: 1.5em 10em 1.5em 10em;
     border-bottom: 1px solid black;
 }
+
 .img1{
-    width: 2.4em;
+    width: 12em;
 }
 .dium{
     font-family: "Clistoga";
     font-size: 2em;
 }
+
 .log{
     display: flex;
     gap: 0.5em;
 }
-nav li a{
+.list li a{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     font-size: 1em;
@@ -27,11 +29,11 @@ nav li a{
 }
 .wrap{
     display: flex;
-    margin-left: 17em;
+    margin-left: 1em;
     gap: 3em;
 }
 
-nav{
+.list{
     display: flex;
     gap: 1.5em;
     padding: 1em 0 1em;
