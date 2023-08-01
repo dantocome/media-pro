@@ -1,10 +1,11 @@
 
 header{
     background-color: rgb(254, 194, 54);
-    height: 5em;
+    height: 6em;
     display: flex;
-    gap:40em;
-    padding: 1em 8em 1em 8em;
+    gap:22em;
+    padding: 1.5em 6em 1.5em 6em;
+    border-bottom: 1px solid black;
 }
 .img1{
     width: 2.4em;
@@ -12,7 +13,6 @@ header{
 .dium{
     font-family: "Clistoga";
     font-size: 2em;
-    font-weight: bold;
 }
 .log{
     display: flex;
@@ -22,12 +22,31 @@ nav li a{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     font-size: 1em;
+    font-weight:450;
     
+}
+.wrap{
+    display: flex;
+    margin-left: 17em;
+    gap: 3em;
 }
 
 nav{
     display: flex;
-    gap: 2em;
-    padding: 1em 0 1em 0;
+    gap: 1.5em;
+    padding: 1em 0 1em;
+    
+    
+}
+.btn{
+    background-color: black;
+    margin-left: 10px;
+    width: 7em;
+    color: white;
+    font-size: 1.1em;
+    height: 2.5em;
+    border-radius: 10em;
+    
+    
 }
     
