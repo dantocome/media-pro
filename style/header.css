@@ -9,8 +9,9 @@ header {
     top: 0;
 }
 nav{
-    width: 100em;
+    width: 90em;
 border: 1px solid red;
+margin: auto;
 }
 .navi{
    display: flex;
