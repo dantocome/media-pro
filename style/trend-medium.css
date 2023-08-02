@@ -55,9 +55,17 @@
 .epiloq{
     margin-left: -1.7em;
     margin-top: 0.5em;
-    font-size: 1em;
+    font-size: 1.1em;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.oba{
+    width: 0.9em;
+    height: 1em;
+    margin-top: 0.5em;
+}
+.barak{
+    display: flex;
 }
 .date{
     margin-left: -1.9em;
