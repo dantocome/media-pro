@@ -8,17 +8,15 @@ header {
     position: sticky;
     top: 0;
 }
+
 nav{
-border: 1px solid red;
-margin: auto;
-}
-.navi{
    display: flex;
    align-items: center;
    gap: 30em;
    padding: 1.5em 6em 1.5em 6em;
    height: 6em;
-   border: 1px solid;
+   
+
    
 }
 .circle{
