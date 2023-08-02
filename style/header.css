@@ -10,7 +10,7 @@ header {
 }
 nav{
    display: flex;
-   gap: 35em;
+   gap: 30em;
    padding: 2em  2em;
    height: 6em;
    margin: auto;
