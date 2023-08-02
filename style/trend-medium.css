@@ -23,6 +23,11 @@
 .buttom-col{
     display: flex;
 }
+.buttom-coll{
+    display: flex;
+    gap: 5em;
+    margin-top: 2em;
+}
 .img2{
     width: 1.5em;
     height: 1.5em;
@@ -47,6 +52,11 @@
     display: flex;
     gap: 1em;
     
+}
+.Estter{
+    display: flex;
+    gap: 1em;
+    margin-left: 3.8em;
 }
 .craw{
     padding: 0.2em 0 0.2em 0;
