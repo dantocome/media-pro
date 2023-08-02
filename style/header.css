@@ -9,15 +9,20 @@ header {
     top: 0;
 }
 nav{
+    width: 100em;
+border: 1px solid red;
+}
+.navi{
    display: flex;
+   align-items: center;
    gap: 30em;
    padding: 1.5em 6em 1.5em 6em;
    height: 6em;
    border: 1px solid;
-   margin: auto;
+   
 }
 .circle{
-    margin-left: -2em;
+
 }
 
 .img1{
@@ -42,7 +47,8 @@ nav{
 .wrap{
     display: flex;
     gap: 1em;
-    margin-left: 2em;
+    margin-left: 12em;
+    
     
 
 }
