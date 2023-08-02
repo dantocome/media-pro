@@ -7,6 +7,10 @@
 }
 .middle-container{
     height: 400px;
+    
+}
+.inner-container{
+    padding: 3em 5em 3em 5em;
 }
 
 .hechfor{
@@ -64,4 +68,5 @@
 }
 .buttom-col{
     margin-top: 1em;
+    gap: 3em;
 }
