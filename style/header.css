@@ -10,11 +10,11 @@ header {
 }
 nav{
    display: flex;
-   gap: 30em;
-   padding: 1.5em 0.5em 1.5em 0.5em;
+   gap: 41em;
+   padding: 1.5em 6em 1.5em 6em;
    height: 6em;
-   margin: auto;
    border: 1px solid;
+   margin: auto;
 }
 
 .img1{
@@ -39,7 +39,7 @@ nav{
 .wrap{
     display: flex;
     gap: 1em;
-    margin-left: 4em;
+    
 
 }
 
@@ -52,7 +52,7 @@ nav{
 }
 .btn{
     background-color: black;
-    width: 7em;
+    width: 6.5em;
     color: white;
     font-size: 1.1em;
     height: 2.5em;
