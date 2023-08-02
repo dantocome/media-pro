@@ -1,6 +1,7 @@
 .hero-section .curios{
     background-color:rgb(254, 194, 54);
     height: 500px;
+    border-bottom: 1px solid black;
 }
 h1{
     font-size: 5em;
