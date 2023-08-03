@@ -1,0 +1,51 @@
+.woma{
+    display: flex;
+}
+.craw{
+    margin-left: 0.4em;
+}
+.ob{
+    width: 0.9em;
+    height: 1em;
+    margin-top: 0.5em;
+    margin-left: 0.3em;
+}.loq{
+    font-size: 1.2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
+.dat{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    font-weight: 460;
+    font-size: 1.01em;
+}
+.dati{
+    display: flex;
+}
+.dti{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+}
+.heat{
+    width: 3.5em;
+    height: 2em;
+    color: grey;
+    margin-left: 1em;
+    border: none;
+    border-radius: 40%;
+}
+.Eter{
+    display: flex;
+}
+.femi{
+    width: 6.3em;
+    margin-left: 1em;
+    height: 2.2em;
+    border-radius: 40px;
+    border: none;
+    color: gray;
+}
+.venes{
+    display: flex;
+}
