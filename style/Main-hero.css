@@ -49,3 +49,10 @@
 .venes{
     display: flex;
 }
+.ux{
+    width: 2.9em;
+    height: 2em;
+    border: none;
+    border-radius: 30px;
+    margin-left: 1em;
+}
