@@ -56,3 +56,11 @@
     border-radius: 30px;
     margin-left: 1em;
 }
+.lang{
+    width: 13em;
+    height: 2em;
+    color: grey;
+    border-radius: 12px;
+    border: none;
+    margin-left: 1em;
+}
