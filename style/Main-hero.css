@@ -56,11 +56,25 @@
 .venes{
     display: flex;
     margin-top: 1em;
-    gap: 3.8em;
+    gap: 1.7em;
+}
+.pang{
+    display: flex;
+    gap: 4.7em;
+    margin-top: 1em;
+}
+.vn{
+    display: flex;
+    gap: 4.5em;
+    margin-top: 1em;
+}
+.sax{
+    display: flex;
+    gap: 0.5em;
 }
 .vene{
     display: flex;
-    gap: 18.5em;
+    gap: 2em;
     margin-top: 1em;
 }
 .vens{
