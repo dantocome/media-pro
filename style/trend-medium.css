@@ -12,7 +12,7 @@
     
 }
 .inner-container{
-    padding: 3em 4em 3em 4em;
+    padding: 3em 2em 3em 2em;
 }
 
 .hechfor{
@@ -67,7 +67,7 @@
 .epiloq{
     margin-left: -1.7em;
     margin-top: 0.5em;
-    font-size: 0.8em;
+    font-size: 1em;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
