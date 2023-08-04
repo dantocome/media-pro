@@ -55,13 +55,13 @@
 }
 .venes{
     display: flex;
-    margin-top: 2em;
+    margin-top: 1em;
     gap: 3.8em;
 }
 .vene{
     display: flex;
     gap: 18.5em;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 .vens{
     display: flex;
@@ -71,12 +71,12 @@
 .vs{
     display: flex;
     gap: 1.5em;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 .ves{
     display: flex;
     gap: 1.5em;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 .ux{
     width: 2.9em;
