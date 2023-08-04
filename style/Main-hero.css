@@ -240,3 +240,46 @@ div{
     width: 6em;
     padding: 0.5em;
 }
+.row4{
+    margin-top: 2em;
+}
+.row4 li a{
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+}
+.topics{
+    border-bottom: 1px solid rgb(233, 231, 231);
+    height: 230px;
+}
+.row5{
+    display: flex;
+    gap: 2em;
+}
+.footer{
+    margin-top: 2em;
+}
+.row5 li a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+
+    
+}
+.row5 li{
+    font-weight: 470;
+    font-size: 1em;
+}
+.row6{
+    display: flex;
+    gap: 2em;
+    margin-top: 1em;
+}
+.row6 li a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.row6 li{
+    font-weight: 470;
+    font-size: 1em;
+}
