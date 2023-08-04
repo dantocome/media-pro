@@ -71,6 +71,7 @@
 .sax{
     display: flex;
     gap: 0.5em;
+    margin-top: 1em;
 }
 .vene{
     display: flex;
@@ -79,17 +80,22 @@
 }
 .vens{
     display: flex;
-    gap: 6.5em;
+    gap: 7.3em;
     margin-top: 2em;
 }
 .vs{
     display: flex;
-    gap: 1.5em;
+    gap: 1.8em;
     margin-top: 1em;
 }
 .ves{
     display: flex;
-    gap: 1.5em;
+    gap: 3em;
+    margin-top: 1em;
+}
+.ne{
+    display: flex;
+    gap: 16.5em;
     margin-top: 1em;
 }
 .ux{
