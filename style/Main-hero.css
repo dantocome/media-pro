@@ -43,6 +43,7 @@
 }
 .Eter{
     display: flex;
+    gap: 2em;
 }
 .femi{
     width: 6.3em;
@@ -54,6 +55,27 @@
 }
 .venes{
     display: flex;
+    margin-top: 2em;
+    gap: 3em;
+}
+.vene{
+    display: flex;
+    gap: 18em;
+    margin-top: 2em;
+}
+.vens{
+    display: flex;
+    gap: 6em;
+    margin-top: 2em;
+}
+.vs{
+    display: flex;
+    gap: 1em;
+    margin-top: 2em;
+}
+.ves{
+    display: flex;
+    gap: 1.5em;
     margin-top: 2em;
 }
 .ux{
