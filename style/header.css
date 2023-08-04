@@ -62,7 +62,37 @@ header {
     height: 2em;
     border-radius: 10em;
     margin-top: 0.5em;
-    
-    
+}
+.bget{
+    display: none;
+}
+
+@media screen and (max-width:375px){
+    .list{
+        display: none;
+    }
+    header{
+        position: sticky;
+    }
+    nav{
+        display: flex;
+        gap: 4em;
+        
+    }
+    .circle{
+        display: flex;
+        gap: 1em;
+    }
+    .btn{
+        width: 5.5em;
+        border: none;
+        
+    }
+    .img1{
+        width: 11em;
+    }
+    header{
+        height: 4.5em;
+    }
 }
     
