@@ -6,6 +6,9 @@
 }
 .internal-medium{
     margin-top: 5em;
+    display: flex;
+    gap: 7em;
+    padding: 3em 7em 3em 7em;
 }
 .ob{
     width: 0.9em;
@@ -105,29 +108,30 @@
     margin-left: 3.6em;
 }
 .blk-bg{
-    width: 14em;
-    height: 10em;
+    width: 13em;
+    height: 9em;
 }
 .colo-wom{
-    width: 14em;
-    height: 10em;
+    width: 13em;
+    height: 9em;
 }
 .lapto{
-    width: 14em;
-    height: 10em;
+    width: 13em;
+    height: 9em;
 }
 .draw{
-    width: 14em;
-    height: 10em;
+    width: 13em;
+    height: 9em;
 }
 .vis{
-    width: 14em;
-    height: 10em;
+    width: 13em;
+    height: 9em;
 }
 .boy{
-    width: 14em;
-    height: 10em;
+    width: 13em;
+    height: 9em;
 }
+
 .blk-woman{
     margin-left: 1.5em;
     
@@ -146,8 +150,14 @@
 }
 .row1{
     display: flex;
-    gap: 1em;
+    gap: 0.5em;
+    margin-top: 1em;
 
+}
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(74, 72, 72);
+    font-weight: 300;
 }
 .row1  li{
     border: none;
@@ -163,4 +173,71 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 450;
     
+}
+.row2{
+    display: flex;
+    gap: 0.5em;
+    margin-top: 0.5em;
+    
+
+}
+.row2  li{
+    border: none;
+    background-color: rgb(233, 232, 232);
+    border-radius: 20px;
+    width: 10em
+    
+}
+.row2 li a{
+    margin-left: 0.6em;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 450;
+
+    
+}
+.row2 .self{
+    padding: 0.5em;
+}
+.row2 .writ{
+    width: 5em;
+    padding: 0.5em;
+    
+    
+}
+.row2 .rela{
+    padding: 0.5em;
+    width: 9em;
+    
+}
+.row3{
+    display: flex;
+    margin-top: 0.5em;
+    gap: 0.5em;
+}
+.row3  li{
+    border: none;
+    background-color: rgb(233, 232, 232);
+    border-radius: 20px;
+    width: 10em
+    
+}
+.row3 li a{
+    margin-left: 0.6em;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 450;
+
+    
+}
+.row3 .self{
+    padding: 0.5em;
+}
+.row3 .pro{
+    width: 8em;
+    padding: 0.5em;
+}
+.row3 .poli{
+    width: 6em;
+    padding: 0.5em;
 }
