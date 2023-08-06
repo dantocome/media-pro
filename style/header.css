@@ -72,20 +72,19 @@ header {
         display: none;
     }
     header{
-        position: sticky;
+        display: flex;
+        top: 0;
     }
     nav{
         display: flex;
         gap: 4em;
-        
+        height: 1em;  
     }
-    .circle{
-        display: flex;
-        gap: 1em;
-    }
+    
     .btn{
         width: 5.5em;
         border: none;
+        margin-top: -0.8em;
         
     }
     .img1{
@@ -93,6 +92,11 @@ header {
     }
     header{
         height: 4.5em;
+        padding: -3em  ;
     }
+    .circle{
+       margin-top: -1.5em; 
+    }
+    
 }
     
