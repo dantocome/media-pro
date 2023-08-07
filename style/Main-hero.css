@@ -442,6 +442,7 @@ div{
      .internal-medium{
         display: flex;
         flex-direction: column-reverse;
+        
      }
      .row5{
         display: flex;
@@ -468,6 +469,15 @@ div{
      .row3{
         display: flex;
         flex-wrap: wrap;
+     }
+     h3{
+        font-size: 1em;
+     }
+     .footer{
+        display: none;
+     }
+     .topics{
+        height: 295px;
      }
      
      

@@ -27,7 +27,7 @@
 }
 .buttom-coll{
     display: flex;
-    gap: 5em;
+    gap: 6em;
     margin-top: 2em;
 }
 .img2{
@@ -52,13 +52,13 @@
 }
 .Ester{
     display: flex;
-    gap: 1em;
+    gap: 2em;
     
 }
 .Estter{
     display: flex;
     gap: 1.5em;
-    margin-left: 3.8em;
+    margin-left: 3em;
 }
 .craw{
     padding: 0.2em 0 0.2em 0;
@@ -94,18 +94,30 @@
     display: flex;
     gap: 1em;
 }
+.Et{
+    display: flex;
+    gap: 1em;
+}
+.Er{
+    display: flex;
+    gap: 1em;
+}
 
 @media screen and (max-width:375px){
     .middle-container{
-        height: 940px;
+        height: 960px;
     }
     .inner-container{
         padding: 2em 1.8em 1em;
         margin-top: 2em;
         
     }
+    
     .buttom-col{
-        margin-top: 3em;
+        margin-top: 3.8em;
+    }
+    .top-col{
+        margin-top: 0.7em;
     }
     
     .Estter{
@@ -116,8 +128,8 @@
         line-height: 1.2;
     }
     .Ester{
-        margin-top: -1em;
-        gap: 2em;
+        margin-top: -2.9em;
+        gap: 1em;
     }
     .Eter{
         margin-top: -1em;
@@ -127,6 +139,7 @@
         margin-top: -2em;
         gap: 2em;
     }
+    
     
 }
     
