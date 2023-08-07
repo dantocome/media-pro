@@ -172,6 +172,8 @@
     gap: 0.5em;
     margin-top: 1em;
 
+
+
 }
 div{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -312,6 +314,7 @@ div{
      .big-medium{
         height: 500px;
      }
+     
      .internal-medium{
         margin-top: 1em;
      }
@@ -448,4 +451,24 @@ div{
         display: flex;
         gap: 1em;
      }
+     .row1 li{
+        height: 2.5em;
+     }
+     .row1{
+        display: flex;
+        flex-wrap: wrap;
+     }
+     .row2{
+        height: 2.5em;
+     }
+     .row2{
+        display: flex;
+        flex-wrap: wrap;
+     }
+     .row3{
+        display: flex;
+        flex-wrap: wrap;
+     }
+     
+     
 }
