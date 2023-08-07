@@ -353,15 +353,15 @@ div{
         height: 6em;
      }
      .vis{
-        width: 6.5em;
+        width: 6em;
         height: 6em;
      }
      .blk-bg{
-        width: 6.5em;
+        width: 6em;
         height: 6em;
      }
      .transist{
-        width: 6.5em;
+        width: 6em;
         height: 6em;
      }
      .boy{
@@ -394,5 +394,58 @@ div{
      }
      .pang{
         gap: 1.4em;
+     }
+     .vn{
+        gap: 1.4em;
+     }
+     .sax{
+        gap: 1.4em;
+     }
+     .vs{
+        gap: 1.4em;
+     }
+     .ux{
+        display: none;
+     }
+     .craw{
+        width: 10em;
+     }
+     .lang{
+        display: none;
+     }
+     .vens{
+        gap: 1.5em;
+     }
+     .boy{
+        width: 6em;
+        height: 6em;
+        
+     }
+     .culture{
+        display: none;
+     }
+     .ps{
+        display: none;
+     }
+     .ves{
+        gap: 1.5em;
+     }
+     .bar{
+        display: none;
+     }
+     .ne{
+        gap: 1.5em;
+     }
+     .internal-medium{
+        display: flex;
+        flex-direction: column-reverse;
+     }
+     .row5{
+        display: flex;
+        gap: 1em;
+     }
+     .row6{
+        display: flex;
+        gap: 1em;
      }
 }
