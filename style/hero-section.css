@@ -28,3 +28,28 @@ h2{
     color: white;
     border-radius: 5em;
 }
+@media screen and (max-width:375px){
+    h2{
+        font-size: 5em;
+        
+    }
+    .discover{
+        font-size: 0.7em;
+        font-weight: bold;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .bttn{
+        width: 9.5em;
+        height: 2em;
+        margin-top: -0.9em;
+    }
+    .buttom-col{
+        display: flex;
+        flex-direction: column;
+    }
+    .buttom-coll{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}

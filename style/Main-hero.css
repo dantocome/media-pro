@@ -1,6 +1,9 @@
 .woma{
     display: flex;
 }
+.big-medium{
+   height: 600px;
+}
 .craw{
     margin-left: 0.4em;
 }
@@ -298,4 +301,79 @@ div{
 .row6 li{
     font-weight: 470;
     font-size: 1em;
+}
+.aa{
+    display: flex;
+}
+.bb{
+    display: flex;
+}
+@media screen and (max-width:375px){
+     .big-medium{
+        height: 500px;
+     }
+     .internal-medium{
+        margin-top: 1em;
+     }
+     .dat{
+        display: none;
+     }
+     .woma{
+        display: flex;
+        flex-direction: column;
+        
+     }
+     .craw{
+        font-size: 0.8em;
+        font-weight: 500;
+     }
+     .cra{
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: -0.9em;
+     }
+     .loq{
+        font-size: 0.7em;
+        
+     }
+     .colo-wom{
+        width: 6em;
+        height: 6em;
+     }
+     .lapto{
+        width: 6.5em;
+        height: 6em;
+     }
+     .draw{
+        width: 6.5em;
+        height: 6em;
+     }
+     .vis{
+        width: 6.5em;
+        height: 6em;
+     }
+     .blk-bg{
+        width: 6.5em;
+        height: 6em;
+     }
+     .transist{
+        width: 6.5em;
+        height: 6em;
+     }
+     .boy{
+        width: 6.5em;
+        height: 6em;
+     }
+     .internal-medium{
+        padding: 0.5em 1em 0.5em 1em;
+     }
+     .Eter{
+        display: flex;
+        gap: 0.2em;
+     }
+     .img2{
+        width: 1.2em;
+        height: 1.2em;
+     }
 }
