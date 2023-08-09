@@ -108,6 +108,7 @@
     gap: 1.9em;
 }
 
+
 @media screen and (max-width:375px){
     .middle-container{
         height: 960px;
