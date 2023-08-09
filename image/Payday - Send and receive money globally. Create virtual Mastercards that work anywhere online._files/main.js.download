@@ -1,0 +1,114 @@
+// Add slideDown animation to Bootstrap dropdown when expanding.
+$('.dropdown').on('show.bs.dropdown', function () {
+  $(this).find('.dropdown-menu').first().stop(true, true).slideDown();
+});
+
+// Add slideUp animation to Bootstrap dropdown when collapsing.
+$('.dropdown').on('hide.bs.dropdown', function () {
+  $(this).find('.dropdown-menu').first().stop(true, true).slideUp();
+});
+
+$(function () {
+
+  function myFunction(x) {
+    var $nav = $("#top-navbar");
+    if (x.matches) {
+      $nav.toggleClass('blurred')
+      $nav.css({
+        backgroundColor: "#ffffff"
+      })
+    } else {
+      $(document).scroll(function () {
+        $nav.toggleClass('blurred', $(this).scrollTop() > $nav.height());
+      });
+    }
+  }
+
+  var x = window.matchMedia("(max-width: 700px)")
+  myFunction(x)
+  x.addListener(myFunction)
+});
+
+// page loading
+$(window).on('load', function () {
+  $('#preloader').fadeOut()
+});
+
+
+$(window).scroll(function (event) {
+  var scroll = $(window).scrollTop();
+  // Do something
+
+  if (scroll > 20) {
+    $('#header').fadeOut()
+
+  } else {
+    $('#header').fadeIn()
+  }
+});
+
+
+$(document).ready(function () {
+  // Add smooth scrolling to all links
+  $("a").on('click', function (event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function () {
+
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+
+
+// Replace with your app ID
+// var APP_ID = "ueqwmz4v";
+
+// window.intercomSettings = {
+//   app_id: APP_ID,
+// };
+
+// (function () {
+//   var w = window;
+//   var ic = w.Intercom;
+//   if (typeof ic === "function") {
+//     ic("reattach_activator");
+//     ic("update", w.intercomSettings);
+//   } else {
+//     var d = document;
+//     var i = function () {
+//       i.c(arguments);
+//     };
+//     i.q = [];
+//     i.c = function (args) {
+//       i.q.push(args);
+//     };
+//     w.Intercom = i;
+//     var l = function () {
+//       var s = d.createElement("script");
+//       s.type = "text/javascript";
+//       s.async = true;
+//       s.src = "https://widget.intercom.io/widget/" + APP_ID;
+//       var x = d.getElementsByTagName("script")[0];
+//       x.parentNode.insertBefore(s, x);
+//     };
+//     if (w.attachEvent) {
+//       w.attachEvent("onload", l);
+//     } else {
+//       w.addEventListener("load", l, false);
+//     }
+//   }
+// })();

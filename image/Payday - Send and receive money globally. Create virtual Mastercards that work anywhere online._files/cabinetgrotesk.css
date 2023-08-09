@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Cabinetgrotesk';
+  src: url('./cabinetgrotesk/61837dd38252ac69e1212cb0_CabinetGrotesk-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cabinetgrotesk';
+  src: url('./cabinetgrotesk/61837dd3e9214ccc2af0f39a_CabinetGrotesk-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cabinetgrotesk';
+  src: url('./cabinetgrotesk/61837dd32c05980a92df4602_CabinetGrotesk-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cabinetgrotesk';
+  src: url('./cabinetgrotesk/61837dd39f520b6ce4f8a1da_CabinetGrotesk-Extrabold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cabinetgrotesk';
+  src: url('./cabinetgrotesk/61837dd3db060ad80ddbbe0a_CabinetGrotesk-Extralight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cabinetgrotesk';
+  src: url('./cabinetgrotesk/61837dd322340648806a655d_CabinetGrotesk-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cabinetgrotesk';
+  src: url('./cabinetgrotesk/61837dd48252acec25212cb1_CabinetGrotesk-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cabinetgrotesk';
+  src: url('./cabinetgrotesk/61837dd4bdade30a08bea2b3_CabinetGrotesk-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cabinetgrotesk variable';
+  src: url('./cabinetgrotesk/61837dd41d096c34d2230fb0_CabinetGrotesk-Variable.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Fake Serif';
+  src: url('./cabinetgrotesk/6181d37becad1db28fe712c9_Fake%20Serif.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
