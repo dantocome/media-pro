@@ -469,6 +469,7 @@ div{
      .row3{
         display: flex;
         flex-wrap: wrap;
+        margin-top: 3.2em;
      }
      h3{
         font-size: 1em;
