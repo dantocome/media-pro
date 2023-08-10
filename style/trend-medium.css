@@ -122,12 +122,14 @@
 }
 .size{
     display: flex;
+    
 }
 .ter{
     display: flex;
     gap: 2em;
     
 }
+
 
 
 @media screen and (max-width:375px){
@@ -167,12 +169,7 @@
         margin-top: -2em;
         gap: 2em;
     }
-    .Et{
     
-    }
-    .Er{
-        
-    }
     .micro{
         margin-left: 2em;
     }
@@ -191,8 +188,6 @@
     .ter{
         margin-top: -3em;
     }
-    
-    
     
 }
     
