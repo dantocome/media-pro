@@ -135,6 +135,7 @@
 @media screen and (max-width:375px){
     .middle-container{
         height: 1050px;
+        border-bottom: 1px solid;
     }
     .inner-container{
         padding: 2em 1.8em 1em;
@@ -151,24 +152,24 @@
     
     .Estter{
         margin-left: 0.1em;
-        margin-top: 2em;
+        margin-top: -2em;
     }
     .Est{
         line-height: 1.2;
         margin-left: 2em;
     }
     .Et{
-        margin-top: 2em;
+        margin-top: -1em;
     }
     .Er{
-        margin-top: 2em;
+        margin-top: -1em;
     }
     .Ester{
         margin-top: -2.9em;
         
     }
     .Eter{
-        margin-top: 2em;
+        margin-top: -1em;
         
     }
     .Es{
@@ -192,7 +193,7 @@
         margin-left: 2.5em;
     }
     .ter{
-        margin-top: 2em;
+        margin-top: -1.8em;
     }
     
     
