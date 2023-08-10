@@ -134,7 +134,7 @@
 
 @media screen and (max-width:375px){
     .middle-container{
-        height: 90em;
+        height: 85em;
         border-bottom: 1px solid;
     }
     .inner-container{
