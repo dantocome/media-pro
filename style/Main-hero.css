@@ -313,10 +313,11 @@ div{
 @media screen and (max-width:375px){
      .big-medium{
         height: 500px;
+        margin-top: -3em;
      }
      
      .internal-medium{
-        margin-top: 1em;
+        
      }
      .dat{
         display: none;
