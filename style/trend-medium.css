@@ -134,7 +134,7 @@
 
 @media screen and (max-width:375px){
     .middle-container{
-        height: 1050px;
+        height: 1250px;
         border-bottom: 1px solid;
     }
     .inner-container{
@@ -152,7 +152,7 @@
     
     .Estter{
         margin-left: 0.1em;
-        margin-top: 2em;
+        margin-top: -3em;
     }
     .Est{
         line-height: 1.2;
@@ -193,7 +193,7 @@
         margin-left: 2.5em;
     }
     .ter{
-        margin-top: 2em;
+        margin-top: -3em;
     }
     
     
