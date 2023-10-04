@@ -67,6 +67,70 @@ header {
     display: none;
 }
 
+
+@media screen and (max-width:500px){
+    .list{
+        display: none;
+    }
+    header{
+        display: flex;
+        top: 0;
+    }
+    nav{
+        display: flex;
+        gap: 4em;
+        height: 1em;  
+    }
+    
+    .btn{
+        width: 5.5em;
+        border: none;
+        margin-top: -0.8em;
+        
+    }
+    .img1{
+        width: 11em;
+    }
+    header{
+        height: 4.5em;
+        padding: -3em  ;
+    }
+    .circle{
+       margin-top: -1.5em; 
+    }
+}
+
+@media screen and (max-width:450px){
+    .list{
+        display: none;
+    }
+    header{
+        display: flex;
+        top: 0;
+    }
+    nav{
+        display: flex;
+        gap: 4em;
+        height: 1em;  
+    }
+    
+    .btn{
+        width: 5.5em;
+        border: none;
+        margin-top: -0.8em;
+        
+    }
+    .img1{
+        width: 11em;
+    }
+    header{
+        height: 4.5em;
+        padding: -3em  ;
+    }
+    .circle{
+       margin-top: -1.5em; 
+    }
+}
 @media screen and (max-width:375px){
     .list{
         display: none;

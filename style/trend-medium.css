@@ -131,7 +131,147 @@
 }
 
 
+@media screen and (max-width:500px){
+    .middle-container{
+        height: 1020px;
+        border-bottom: 1px solid;
+    }
+    .inner-container{
+        padding: 2em 1.8em 1em;
+        margin-top: 2em;
+        
+    }
+    
+    .buttom-col{
+        margin-top: 3em;
+        display: flex;
+        gap: 0.1em;
+    }
+    .buttom-coll{
+        display: flex;
+        gap: 0.1em;
+    }
+    .top-col{
+        margin-top: 0.7em;
+    }
+    
+    .Estter{
+        margin-left: 0.1em;
+        margin-top: 2em;
+    }
+    .Est{
+        line-height: 1.2;
+        margin-left: 2em;
+    }
+    .Et{
+        margin-top: 2em;
+    }
+    .Er{
+        margin-top: 2em;
+    }
+    .Ester{
+        margin-top: -2.9em;
+        
+    }
+    .Eter{
+        margin-top: 2em;
+        
+    }
+    .Es{
+        margin-top: -2em;
+        gap: 2em;
+    }
+    
+    .micro{
+        margin-left: 2em;
+    }
+    .hil{
+        margin-left: 2em;
+    }
+    .miro{
+        margin-left: 2em;
+    }
+    .Ev2{
+        margin-left: 2em;
+    }
+    .size{
+        margin-left: 2.5em;
+    }
+    .ter{
+        margin-top: 2em;
+    }
+}
 
+@media screen and (max-width:450px){
+    .middle-container{
+        height: 1020px;
+        border-bottom: 1px solid;
+    }
+    .inner-container{
+        padding: 2em 1.8em 1em;
+        margin-top: 2em;
+        
+    }
+    
+    .buttom-col{
+        margin-top: 3em;
+        display: flex;
+        gap: 0.1em;
+    }
+    .buttom-coll{
+        display: flex;
+        gap: 0.1em;
+    }
+    .top-col{
+        margin-top: 0.7em;
+    }
+    
+    .Estter{
+        margin-left: 0.1em;
+        margin-top: 2em;
+    }
+    .Est{
+        line-height: 1.2;
+        margin-left: 2em;
+    }
+    .Et{
+        margin-top: 2em;
+    }
+    .Er{
+        margin-top: 2em;
+    }
+    .Ester{
+        margin-top: -2.9em;
+        
+    }
+    .Eter{
+        margin-top: 2em;
+        
+    }
+    .Es{
+        margin-top: -2em;
+        gap: 2em;
+    }
+    
+    .micro{
+        margin-left: 2em;
+    }
+    .hil{
+        margin-left: 2em;
+    }
+    .miro{
+        margin-left: 2em;
+    }
+    .Ev2{
+        margin-left: 2em;
+    }
+    .size{
+        margin-left: 2.5em;
+    }
+    .ter{
+        margin-top: 2em;
+    }
+}
 @media screen and (max-width:375px){
     .middle-container{
         height: 1020px;
