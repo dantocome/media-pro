@@ -311,11 +311,16 @@ div{
 .bb{
     display: flex;
 }
-@media screen and (max-width:375px){
-     .big-medium{
+
+@media screen and (max-width:500px){
+    .big-medium{
         height: 1500px;
         margin-top: -1em;
         
+     }
+
+     .right-column{
+        margin-top: -3em;
      }
      
      .internal-medium{
@@ -380,6 +385,7 @@ div{
      .Eter{
         display: flex;
         gap: 1.3em;
+
      }
      .img2{
         width: 1.2em;
@@ -481,7 +487,364 @@ div{
         display: none;
      }
      .topics{
-        height: 295px;
+        height: 350px;
+     }
+}
+
+@media screen and (max-width:450px){
+    .big-medium{
+        height: 1500px;
+        margin-top: -1em;
+        
+     }
+
+     .right-column{
+        margin-top: -3em;
+     }
+     
+     .internal-medium{
+        margin-top: 5em;
+     }
+     .dat{
+        display: none;
+     }
+     .woma{
+        display: flex;
+        flex-direction: column;
+        
+     }
+     .craw{
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-top: 0.4em;
+     }
+     .cra{
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: -0.9em;
+     }
+     .loq{
+        font-size: 1em;
+        
+        width: 13em;
+        
+     }
+     .colo-wom{
+        width: 6em;
+        height: 6em;
+     }
+     .lapto{
+        width: 6em;
+        height: 6em;
+     }
+     .draw{
+        width: 6em;
+        height: 6em;
+     }
+     .vis{
+        width: 6em;
+        height: 6em;
+     }
+     .blk-bg{
+        width: 6em;
+        height: 6em;
+     }
+     .transist{
+        width: 6em;
+        height: 6em;
+     }
+     .boy{
+        width: 6.5em;
+        height: 6em;
+     }
+     .internal-medium{
+        padding: 0.5em 1.5em 0.5em 1.5em;
+     }
+     .Eter{
+        display: flex;
+        gap: 1.3em;
+
+     }
+     .img2{
+        width: 1.2em;
+        height: 1.2em;
+     }
+     .heat{
+        display: none;
+     }
+     .woma{
+        display: flex;
+        flex-direction: row;
+     }
+     .femi{
+        display: none;
+     }
+     .venes{
+        gap: 1.4em;
+     }
+     .pang{
+        gap: 1.4em;
+     }
+     .vn{
+        gap: 1.4em;
+     }
+     .sax{
+        gap: 1.4em;
+     }
+     .vs{
+        gap: 1.4em;
+     }
+     .ux{
+        display: none;
+     }
+     .craw{
+        width: 10em;
+     }
+     .lang{
+        display: none;
+     }
+     .vens{
+        gap: 1.5em;
+     }
+     .boy{
+        width: 6em;
+        height: 6em;
+        
+     }
+     .culture{
+        display: none;
+     }
+     .ps{
+        display: none;
+     }
+     .ves{
+        gap: 1.5em;
+     }
+     .bar{
+        display: none;
+     }
+     .ne{
+        gap: 1.5em;
+     }
+     .internal-medium{
+        display: flex;
+        flex-direction: column-reverse;
+        
+     }
+     .row5{
+        display: flex;
+        gap: 1em;
+     }
+     .row6{
+        display: flex;
+        gap: 1em;
+     }
+     .row1 li{
+        height: 2.5em;
+     }
+     .row1{
+        display: flex;
+        flex-wrap: wrap;
+     }
+     .row2{
+        height: 2.5em;
+     }
+     .row2{
+        display: flex;
+        flex-wrap: wrap;
+     }
+     .row3{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 3.2em;
+     }
+     h3{
+        font-size: 1em;
+     }
+     .footer{
+        display: none;
+     }
+     .topics{
+        height: 350px;
+     }
+}
+@media screen and (max-width:375px){
+     .big-medium{
+        height: 1500px;
+        margin-top: -1em;
+        
+     }
+
+     .right-column{
+        margin-top: -3em;
+     }
+     
+     .internal-medium{
+        margin-top: 5em;
+     }
+     .dat{
+        display: none;
+     }
+     .woma{
+        display: flex;
+        flex-direction: column;
+        
+     }
+     .craw{
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-top: 0.4em;
+     }
+     .cra{
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: -0.9em;
+     }
+     .loq{
+        font-size: 1em;
+        
+        width: 13em;
+        
+     }
+     .colo-wom{
+        width: 6em;
+        height: 6em;
+     }
+     .lapto{
+        width: 6em;
+        height: 6em;
+     }
+     .draw{
+        width: 6em;
+        height: 6em;
+     }
+     .vis{
+        width: 6em;
+        height: 6em;
+     }
+     .blk-bg{
+        width: 6em;
+        height: 6em;
+     }
+     .transist{
+        width: 6em;
+        height: 6em;
+     }
+     .boy{
+        width: 6.5em;
+        height: 6em;
+     }
+     .internal-medium{
+        padding: 0.5em 1.5em 0.5em 1.5em;
+     }
+     .Eter{
+        display: flex;
+        gap: 1.3em;
+
+     }
+     .img2{
+        width: 1.2em;
+        height: 1.2em;
+     }
+     .heat{
+        display: none;
+     }
+     .woma{
+        display: flex;
+        flex-direction: row;
+     }
+     .femi{
+        display: none;
+     }
+     .venes{
+        gap: 1.4em;
+     }
+     .pang{
+        gap: 1.4em;
+     }
+     .vn{
+        gap: 1.4em;
+     }
+     .sax{
+        gap: 1.4em;
+     }
+     .vs{
+        gap: 1.4em;
+     }
+     .ux{
+        display: none;
+     }
+     .craw{
+        width: 10em;
+     }
+     .lang{
+        display: none;
+     }
+     .vens{
+        gap: 1.5em;
+     }
+     .boy{
+        width: 6em;
+        height: 6em;
+        
+     }
+     .culture{
+        display: none;
+     }
+     .ps{
+        display: none;
+     }
+     .ves{
+        gap: 1.5em;
+     }
+     .bar{
+        display: none;
+     }
+     .ne{
+        gap: 1.5em;
+     }
+     .internal-medium{
+        display: flex;
+        flex-direction: column-reverse;
+        
+     }
+     .row5{
+        display: flex;
+        gap: 1em;
+     }
+     .row6{
+        display: flex;
+        gap: 1em;
+     }
+     .row1 li{
+        height: 2.5em;
+     }
+     .row1{
+        display: flex;
+        flex-wrap: wrap;
+     }
+     .row2{
+        height: 2.5em;
+     }
+     .row2{
+        display: flex;
+        flex-wrap: wrap;
+     }
+     .row3{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 3.2em;
+     }
+     h3{
+        font-size: 1em;
+     }
+     .footer{
+        display: none;
+     }
+     .topics{
+        height: 350px;
      }
      
      
